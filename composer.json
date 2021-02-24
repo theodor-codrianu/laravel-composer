@@ -13,8 +13,8 @@
         }
     ],
     "require": {
-        "illuminate/support": "^6.0",
-        "guzzlehttp/guzzle": "^6.5",
+        "illuminate/support": "^8.0",
+        "guzzlehttp/guzzle": "^7.0",
         "cebe/markdown": "~1.2.0"
     },
     "autoload": {
